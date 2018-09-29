@@ -1,0 +1,89 @@
+h1 {
+
+	text-align: center;
+
+}
+
+p {
+
+	text-align: justify;
+	background: green;
+	height: 440px;
+	width: 920px;
+	margin: 5px 30px;
+	padding: 30px;
+	border: 10px dotted #000;
+	display: inline-block;
+
+}
+
+.concepto {
+
+	color: white;
+	font-size: 120%;
+	font-family: cursive;
+	text-align: justify-all;
+
+}
+
+p2 {
+
+	text-align: justify;
+	background: blue;
+	height: 200px;
+	width: 370px;
+	margin: 5px 30px;
+	padding: 30px;
+	border: 10px dotted #000;
+	display: inline-block;
+
+}
+
+.concepto2 {
+
+	color: yellow;
+	font-size: 120%;
+	font-family: cursive;
+	text-align: justify-all;
+
+}
+
+p3 {
+	text-align: justify;
+	background: white;
+	height: 100px;
+	width: 920px;
+	margin: 5px 30px;
+	padding: 30px;
+	border: 10px dotted #000;
+	display: inline-block;
+}
+
+.concepto3 {
+
+	color: red;
+	font-size: 120%;
+	font-family: cursive;
+	text-align: justify-all;
+
+}
+
+p4 {
+	text-align: justify;
+	background: orange;
+	height: 180px;
+	width: 600px;
+	margin: 5px 30px;
+	padding: 30px;
+	border: 10px dotted #000;
+	display: inline-block;
+}
+
+.concepto4 {
+
+	color: blue;
+	font-size: 120%;
+	font-family: cursive;
+	text-align: justify-all;
+
+}
